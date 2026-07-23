@@ -1,0 +1,6 @@
+{
+  "name": "AI Tool Hub",
+  "description": "Free AI tools platform to boost your productivity with instant content generation, email writing, YouTube scripts, resume building, and Google Drive export.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
